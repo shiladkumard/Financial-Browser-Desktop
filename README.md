@@ -8,12 +8,11 @@ Transform the browsing experience with a Chromium-based desktop browser that tur
 
 ## ✨ What Makes It Unique?
 
-- 🧠 AI-powered quick search bar (Google, Screener, Google Finance)
-- 🔍 Financial-focused new tab with customizable search engine selector
+- 🔍 Customizable financial search bar with engine selector (Google, Screener, Google Finance)
 - 📈 Mock/live updates on key indices (Nifty 50, Sensex, Bank Nifty, USD/INR)
 - 📰 Live ET Markets news feed via RSS
 - 🧾 Persistent personal notes and stock watchlist
-- ⚡ Quick actions for portfolio, trading, market research
+- ⚡ Quick actions for portfolio, trading, and market research
 - 🛠️ Fully brandable: new tab + installer + platform links
 
 ---
@@ -23,7 +22,7 @@ Transform the browsing experience with a Chromium-based desktop browser that tur
 - 🚀 **Own the Desktop**: Be present in every user session without needing to fight for attention
 - 📣 **Cross Promote Products**: IPOs, loans, mutual funds, smallcases, and more
 - 💰 **Monetize Engagement**: Drive affiliate offers, advisory services, or research subscriptions
-- 🤝 **Custom Built**: Not white-label, but partnership-based — with dedicated support
+- 🤝 Custom Built: This is not a white-label release — brokerages interested in leveraging this product can reach out for exclusive builds and collaboration.
 
 ---
 
@@ -47,17 +46,24 @@ Transform the browsing experience with a Chromium-based desktop browser that tur
 ---
 
 ## 🔗 Demo
-https://youtu.be/LN0pBdONtVY
-https://youtu.be/sT1cAOHcnbc
+- [Zerodha Theme Demo](https://youtu.be/LN0pBdONtVY)
+- [FinIdna Theme Demo](https://youtu.be/sT1cAOHcnbc)
 
-**[👉 View hosted prototype](#)** (GitHub Pages)
+## 🖥️ Windows Installer
+
+Interested in testing the full browser experience?
+
+📦 [Download Financial Browser – Mini_Installer.exe](https://your-file-host.com/Mini_Installer.exe)
+
+> ⚠️ Installer is provided for demonstration purposes only. Full customization available on request.
+
 
 ---
 
 ## 👨‍💻 Built With
 
 - Chromium (custom GN config)
-- HTML, CSS, Vanilla JS
+- HTML, CSS, JS
 - Chrome Storage API, RSS2JSON
 - Hosted with GitHub Pages / packaged with Mini_Installer
 
