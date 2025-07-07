@@ -7,19 +7,26 @@ Transform the browsing experience with a Chromium-based desktop browser that tur
 ---
 ## 🤔 Why a Desktop Browser?
 
-While most brokerages rely on mobile apps and web portals, a **custom desktop browser** unlocks a deeper, more persistent layer of user engagement.
+While most brokerages rely on mobile apps and web portals, a **custom desktop browser** creates a deeper, more persistent layer of engagement that traditional platforms can’t match.
 
-| 🔍 Feature / Channel     | 📱 Mobile App        | 🌐 Website/Web App    | 🖥️ **Custom Desktop Browser** |
-|--------------------------|----------------------|------------------------|-------------------------------|
-| 👀 **User Attention**     | Session-based        | Tabbed/browser-limited | **Always-on (via New Tab)**   |
-| 🎨 **Brand Visibility**   | App icon only        | Minimal after visit    | **Brand dominates UI**        |
-| 🔁 **Cross-Promotion**    | Push/Banner/CTA      | Popups or sections     | **Full-page promotion space** |
-| 📅 **Daily Usage**        | Occasional           | Task-specific          | **Frequent via New Tab**      |
-| 💰 **Monetization**       | Transactional only   | Affiliate/referrals    | **Embedded product promos**   |
-| 🛠️ **Control**            | App/Play Store rules | Browser & SEO rules    | **Full UX control**           |
-| 🧩 **Customization**      | Limited by OS        | Web-limited flexibility| **End-to-end customization**  |
+| 🔍 Feature                   | 📱 Mobile App           | 🌐 Web App / Site        | 🖥️ Custom Desktop Browser         |
+|-----------------------------|--------------------------|---------------------------|------------------------------------|
+| 👀 **User Attention**        | Session-based            | Tabbed & fragmented       | ✅ Always visible (via New Tab)     |
+| 🎨 **Brand Visibility**      | App icon only            | Minimal after visit       | ✅ Brand dominates the UI           |
+| 🧭 **Tool Access**           | Requires deep linking    | Manual navigation         | ✅ One-click dials to key services  |
+| 🪟 **Multitasking**          | Limited screen space     | One tab at a time         | ✅ Charts + orders + news together  |
+| 🔔 **Notifications**         | Push (if enabled)        | Only if tab is open       | ✅ Native desktop alerts (IPOs, NAVs) |
+| 💡 **Education & Tips**      | Limited UI space         | Manual visits only        | ✅ Passive tips & onboarding cues   |
+| 📣 **Cross Promotion**       | Push/CTA banners         | Pop-ups or static links   | ✅ Full-page or persistent promos   |
+| 📅 **Daily Usage**           | Intent-based             | Task-specific             | ✅ Frequent via New Tab behavior    |
+| 💰 **Monetization**          | Per transaction          | Affiliate/referrals       | ✅ Embedded product placements      |
+| 🛠️ **Platform Control**      | App store constraints    | Browser/SEO limits        | ✅ Full UI/UX freedom               |
+| 🧩 **Customization**         | OS-limited               | Web-limited flexibility   | ✅ End-to-end customization         |
+| 🌍 **General Browsing**      | ❌ No                    | ✅ Yes                    | ✅ Yes (Gmail, ChatGPT, YouTube)    |
 
-> 📈 **Boost retention**, increase revenue, and embed your services deeper into daily investor journeys.
+> 🚀 Add your child platforms (like IPO Center, Learning Academy, Mutual Funds, etc.) directly to the browser — frictionless, one-click access that increases stickiness and engagement.
+
+> 📈 Boost retention, diversify monetization and place your ecosystem at the center of your users’ daily browsing habits.
 
 ---
 
