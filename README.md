@@ -26,6 +26,24 @@ Transform the browsing experience with a Chromium-based desktop browser that tur
 
 ---
 
+## 🤔 Why a Desktop Browser?
+
+While most brokerages rely on mobile apps and web portals, a **custom desktop browser** unlocks a deeper, more persistent layer of user engagement.
+
+| 🔍 Feature / Channel     | 📱 Mobile App        | 🌐 Website/Web App    | 🖥️ **Custom Desktop Browser** |
+|--------------------------|----------------------|------------------------|-------------------------------|
+| 👀 **User Attention**     | Session-based        | Tabbed/browser-limited | **Always-on (via New Tab)**   |
+| 🎨 **Brand Visibility**   | App icon only        | Minimal after visit    | **Brand dominates UI**        |
+| 🔁 **Cross-Promotion**    | Push/Banner/CTA      | Popups or sections     | **Full-page promotion space** |
+| 📅 **Daily Usage**        | Occasional           | Task-specific          | **Frequent via New Tab**      |
+| 💰 **Monetization**       | Transactional only   | Affiliate/referrals    | **Embedded product promos**   |
+| 🛠️ **Control**            | App/Play Store rules | Browser & SEO rules    | **Full UX control**           |
+| 🧩 **Customization**      | Limited by OS        | Web-limited flexibility| **End-to-end customization**  |
+
+> 📈 **Boost retention**, increase revenue, and embed your services deeper into daily investor journeys.
+
+---
+
 ## 📦 Installation (For Testing)
 
 1. Download `Mini_Installer.exe`
