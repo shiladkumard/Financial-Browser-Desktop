@@ -64,7 +64,7 @@ While most brokerages rely on mobile apps and web portals, a **custom desktop br
 
 ## 🔗 Demo
 - [Zerodha Theme Demo](https://youtu.be/LN0pBdONtVY)
-- [FinIdna Theme Demo](https://youtu.be/sT1cAOHcnbc)
+- [FinIndia Theme Demo](https://youtu.be/sT1cAOHcnbc)
 
 ## 🖥️ Windows Installer
 
