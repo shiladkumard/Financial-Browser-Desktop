@@ -68,15 +68,10 @@ While most brokerages rely on mobile apps and web portals, a **custom desktop br
 
 ## 🖥️ Windows Installer
 
-Interested in testing the full browser experience?
+📦 Installer available on request
+This build is provided for demo/testing purposes only.
 
-📦 [Download Financial Browser – Mini_Installer.exe](https://your-file-host.com/Mini_Installer.exe)
-
-> 
-> ⚠️ This installer is provided for demonstration purposes only.  
-> 🔐 Since it is **not a signed build**, Windows may display a warning message during installation. You can choose “More Info → Run Anyway” to proceed safely.  
-
-
+⚠️ Note: The installer is unsigned, so Windows may show a security prompt. If you're interested in trying the browser, feel free to reach out — I’ll share the build directly and walk you through setup if needed. 
 
 ---
 
