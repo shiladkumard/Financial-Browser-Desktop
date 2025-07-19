@@ -31,7 +31,7 @@ While most brokerages rely on mobile apps and web portals, a **custom desktop br
 
 ## ✨ What Makes It Unique?
 
-- 🔍 Custom financial search bar (Google, Screener, Google Finance)
+- 🔍 Custom financial search bar (Google, Screener, Google Finance, Perplexity)
 - 📈 Live/mock updates on Nifty 50, Sensex, USD/INR
 - 📰 ET Markets RSS feed integration
 - 🧾 Sticky notes and stock watchlist
