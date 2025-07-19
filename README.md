@@ -139,7 +139,7 @@ _Ex-Epic Privacy Browser Engineer • Chromium Specialist_
 
 ## 📎 Related Pages
 
-- 🔐 [Security Overview](./docs/security.md)
+- 🔐 [Security Overview](./docs/SECURITY.md)
 - 🧭 [Product Overview](./docs/overview.md)
 
 ---
