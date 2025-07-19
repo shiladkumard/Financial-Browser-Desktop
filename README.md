@@ -1,99 +1,155 @@
-# 📊 Financial Desktop Browser – Tailored for India’s Leading Brokerages
+# 🛡️ FinIndia Browser — Own the Financial Browsing Experience
 
-Transform the browsing experience with a Chromium-based desktop browser that turns every new tab into a personalized financial command center.
+Welcome to the official repository of **FinIndia**, a purpose-built desktop browser designed exclusively for India’s financial ecosystem — investors, traders, and brokers. It’s **not just a browser**, it’s your secure command center for markets, money, and momentum.
 
-> Built by a former Epic Privacy Browser engineer with 9+ years of Chromium experience.
-
----
-## 🤔 Why a Desktop Browser?
-
-While most brokerages rely on mobile apps and web portals, a **custom desktop browser** creates a deeper, more persistent layer of engagement that traditional platforms can’t match.
-
-| 🔍 Feature                   | 📱 Mobile App           | 🌐 Web App / Site        | 🖥️ Custom Desktop Browser         |
-|-----------------------------|--------------------------|---------------------------|------------------------------------|
-| 👀 **User Attention**        | Session-based            | Tabbed & fragmented       | ✅ Always visible (via New Tab)     |
-| 🎨 **Brand Visibility**      | App icon only            | Minimal after visit       | ✅ Brand dominates the UI           |
-| 🧭 **Tool Access**           | Requires deep linking    | Manual navigation         | ✅ One-click dials to key services  |
-| 🪟 **Multitasking**          | Limited screen space     | One tab at a time         | ✅ Charts + orders + news together  |
-| 🔔 **Notifications**         | Push (if enabled)        | Only if tab is open       | ✅ Native desktop alerts (IPOs, NAVs) |
-| 💡 **Education & Tips**      | Limited UI space         | Manual visits only        | ✅ Passive tips & onboarding cues   |
-| 📣 **Cross Promotion**       | Push/CTA banners         | Pop-ups or static links   | ✅ Full-page or persistent promos   |
-| 📅 **Daily Usage**           | Intent-based             | Task-specific             | ✅ Frequent via New Tab behavior    |
-| 💰 **Monetization**          | Per transaction          | Affiliate/referrals       | ✅ Embedded product placements      |
-| 🛠️ **Platform Control**      | App store constraints    | Browser/SEO limits        | ✅ Full UI/UX freedom               |
-| 🧩 **Customization**         | OS-limited               | Web-limited flexibility   | ✅ End-to-end customization         |
-| 🌍 **General Browsing**      | ❌ No                    | ✅ Yes                    | ✅ Yes (Gmail, ChatGPT, YouTube)    |
-
-> 🚀 Add your child platforms (like IPO Center, Learning Academy, Mutual Funds, etc.) directly to the browser — frictionless, one-click access that increases stickiness and engagement.
-
-> 📈 Boost retention, diversify monetization and place your ecosystem at the center of your users’ daily browsing habits.
+> 🎯 Crafted by a Chromium specialist (ex-Epic Privacy Browser) with 10+ years of experience in building privacy-first, high-performance browsers at scale.
 
 ---
 
-## ✨ What Makes It Unique?
+## 🚨 Why FinIndia? (The Problem Most Don't See)
 
-- 🔍 Customizable financial search bar with engine selector (Google, Screener, Google Finance)
-- 📈 Mock/live updates on key indices (Nifty 50, Sensex, Bank Nifty, USD/INR)
-- 📰 Live ET Markets news feed via RSS
-- 🧾 Persistent personal notes and stock watchlist
-- ⚡ Quick actions for portfolio, trading, and market research
-- 🛠️ Fully brandable: new tab + installer + platform links
+Today, your users juggle **apps, tabs, and distractions** across browsers never meant for secure financial workflows. Every session risks:
 
----
+- ⚠️ Exposure to trackers and credential leaks
+- 🧩 Dependency on third-party extensions (not built for finance)
+- 🧠 Cognitive overload — switching between trading, research, charts
 
-## 💼 Why Brokerages Should Care
+And for brokerages, that means:
 
-- 🚀 **Own the Desktop**: Be present in every user session without needing to fight for attention
-- 📣 **Cross Promote Products**: IPOs, loans, mutual funds, smallcases, and more
-- 💰 **Monetize Engagement**: Drive affiliate offers, advisory services, or research subscriptions
-- 🤝 Custom Built: This is not a white-label release — brokerages interested in leveraging this product can reach out for exclusive builds and collaboration.
+- ❌ No control over the browsing environment
+- ❌ Missed revenue and engagement opportunities
+- ❌ Data and brand fragmented across tabs
 
 ---
 
-## 📦 Installation (For Testing)
+## ✅ The Solution: FinIndia Browser
+
+**A privacy-hardened, Chromium-based desktop browser** that puts your platform at the heart of every user session.
+
+| 🔍 Feature               | 📱 Mobile App         | 🌐 Web Portal           | 🖥️ FinIndia Browser             |
+|--------------------------|------------------------|---------------------------|----------------------------------|
+| 👁️ Brand Presence        | App icon only          | One-time visit            | ✅ Persistent via New Tab        |
+| 🧠 Daily Utility          | Intent-based           | Task-specific             | ✅ Daily usage (news, notes, tools) |
+| 📊 Trading/Research UX   | Narrow workflows       | Tab fatigue               | ✅ All-in-one: tools + insights  |
+| 🛡️ Privacy Controls       | OS-limited             | Browser-dependent         | ✅ Fully hardened Chromium       |
+| 🧭 Tool Access            | Deep linking needed    | Manual navigation         | ✅ One-click access              |
+| 💼 Monetization           | Transactional          | Banner or email CTA       | ✅ Native browser monetization   |
+| 🛠️ Customization          | Limited by OS          | Limited by browser        | ✅ 100% controllable UX          |
+
+> 📈 **FinIndia isn’t just another Chromium build — it’s an unfair advantage**. Add your trading terminal, IPO center, funds desk, learning academy, and advisory tools natively — no installs, no context switches.
+
+---
+
+## 💡 Key Features at a Glance
+
+- 🧠 **New Tab = Daily Dashboard**  
+  Market indices, economic calendar, top movers, portfolio shortcuts, market news, notes, and more.
+
+- 🔒 **Hardened Privacy Layer**  
+  Built from a stripped Chromium core:
+  - Crash reporting, telemetry, and DNS pings disabled
+  - WebRTC hardened to block IP leaks
+  - Tracker domains blocked via custom `trk:` handler
+  - TLS tweaks, HTTPS visibility, and full URL display
+  - DNS-over-HTTPS disabled for transparency
+
+- 🧩 **Smart Browser Utilities**
+  - Custom search with Google, Screener, and Google Finance
+  - ET Markets RSS feed, price snapshots, and personal watchlist
+  - Light/dark toggle, persistent notes, shortcut tiles
+
+- 🧠 **Smart Habits Engine** (Optional Integration)
+  Educate users with passive tips on:
+  - Extension safety
+  - Phishing awareness
+  - Password hygiene
+  - Incognito usage for sensitive workflows
+
+---
+
+## 🧪 Built-In Advantages
+
+- 🖥️ Designed for Windows desktop (Mini_Installer packaged)
+- 🧱 Chromium-based (upgradable with security patches)
+- 🚫 No Chrome Web Store dependency — fully sandboxed extensions
+- 🔗 Zero background connections to Google services
+- 🧩 Fully brandable (name, icons, assets, shortcuts, installer)
+
+---
+
+## 📸 Screenshot – New Tab in Action
+
+![FinIndia New Tab](https://github.com/user-attachments/assets/04615c13-d602-46ca-a7ba-f6035f5c23b7)
+
+---
+
+## 🎥 Live Demos
+
+- 🔷 [FinIndia Theme Preview](https://youtu.be/sT1cAOHcnbc)
+- 🔷 [Zerodha Theme Preview](https://youtu.be/LN0pBdONtVY)
+
+> Want your own brand version? Just ask. Fully white-glove delivery.
+
+---
+
+## 📦 Installation (Testing Version)
 
 1. Download `Mini_Installer.exe`
-2. Run the browser on Windows (standalone, Chromium-based)
-3. Explore the new tab dashboard and interaction flow
+2. Run directly (no admin rights needed)
+3. Test your workflow — dashboard, speed, isolation
 
-> 📥 DM me or open an issue to request demo access.
-
----
-
-## 🖥️ Screenshots
-
->
-![FinIndia](https://github.com/user-attachments/assets/04615c13-d602-46ca-a7ba-f6035f5c23b7)
-![Zerodha](https://github.com/user-attachments/assets/4b823c28-e5b4-4808-99dc-b57e16062623)
-![Groww](https://github.com/user-attachments/assets/28d7cee0-3d3a-4aa2-839c-a3f0abcf4533)
+⚠️ *Unsigned build (you may see a Windows SmartScreen prompt — safe to proceed)*
 
 ---
 
-## 🔗 Demo
-- [Zerodha Theme Demo](https://youtu.be/LN0pBdONtVY)
-- [FinIndia Theme Demo](https://youtu.be/sT1cAOHcnbc)
+## 🏦 Why Brokerages Should Act Now
 
-## 🖥️ Windows Installer
+FinIndia gives your platform:
 
-📦 Installer available on request
-This build is provided for demo/testing purposes only.
+- 🔐 **A trusted, secure entry point** for financial workflows
+- 📣 **A high-visibility surface** for cross-promotions and retention
+- 💰 **A new monetization channel** via affiliate, search, or sponsored surfaces
+- 🔧 **A canvas for innovation** — test features, themes, onboarding, education
 
-⚠️ Note: The installer is unsigned, so Windows may show a security prompt. If you're interested in trying the browser, feel free to reach out — I’ll share the build directly and walk you through setup if needed. 
+> 💬 Already used for mockups for platforms like Zerodha, Groww, Upstox — now ready for production partnerships.
 
 ---
 
-## 👨‍💻 Built With
+## 🧑‍💻 Built With
 
 - Chromium (custom GN config)
-- HTML, CSS, JS
-- Chrome Storage API, RSS2JSON
-- Hosted with GitHub Pages / packaged with Mini_Installer
+- HTML / CSS / JS
+- Chrome Extensions API
+- Mini_Installer build system
+- RSS2JSON & localStorage
 
 ---
 
-## 🙋‍♂️ Contact & Partnership
+## 🙋‍♂️ Contact
 
-Built by **Shilad Kumar**\
-_Ex-Epic Privacy Browser, Chromium Specialist_\
-📧 shiladkumar.d@gmail.com • 🔗 [[LinkedIn]](https://www.linkedin.com/in/shilad-kumar-devaramani-9a277817/) • ☎️ +91 98860-88142
-> Let’s build India’s first brokerage-owned desktop browser together.
+**Shilad Kumar D**  
+_Ex-Epic Privacy Browser Engineer • Chromium Specialist_  
+📧 [shiladkumar.d@gmail.com](mailto:shiladkumar.d@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shilad-kumar-devaramani-9a277817/)  
+📞 +91 98860-88142  
+
+> 💼 Looking for early partners to co-create India’s first brokerage-powered browser. Demos and customization available on request.
+
+---
+
+## 📎 Related Pages
+
+- 🔐 [Security Overview](./docs/security.md)
+- 🧭 [Product Overview](./docs/overview.md)
+
+---
+
+> 🧠 “Your browser is your workspace — one for memes, one for money. Keep them separate. Keep them secure.”
+
+---
+
+## ⭐ Don’t Miss Out
+
+This is the **first-mover opportunity** to own the browsing experience in India’s growing investor market.
+
+👉 [Request Demo] • [Fork the Repo] • [Open an Issue] • [Get In Touch]
