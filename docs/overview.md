@@ -6,6 +6,18 @@ A Chromium-based desktop browser tailored for Indian brokerages, retail investor
 
 ---
 
+## ✨ Imagine This
+
+You open your browser — and instead of a blank page or irrelevant news, you're instantly greeted by:
+- Nifty & Sensex snapshots  
+- Economic calendar highlights  
+- Your portfolio & trading links  
+- Top market movers and personal notes
+
+Welcome to **FinIndia** — your **financial cockpit** for every session.
+
+---
+
 ## 🤔 Why a Desktop Browser?
 
 While most brokerages rely on mobile apps and web portals, a **custom desktop browser** creates a deeper, more persistent layer of engagement that traditional platforms can’t match.
@@ -29,7 +41,7 @@ While most brokerages rely on mobile apps and web portals, a **custom desktop br
 
 ---
 
-## ✨ What Makes It Unique?
+## ✨ Product Differentiators
 
 - 🔍 Custom financial search bar (Google, Screener, Google Finance, Perplexity)
 - 📈 Live/mock updates on Nifty 50, Sensex, USD/INR
@@ -49,13 +61,10 @@ While most brokerages rely on mobile apps and web portals, a **custom desktop br
 
 ---
 
-## 📦 Installation (For Testing)
+## 🧪 Try It Yourself
 
-1. Download `Mini_Installer.exe`
-2. Run on Windows (standalone, Chromium-based)
-3. Explore the dashboard and UX
-
-> 💬 DM me or open an issue for access.
+Download & test the browser on Windows.  
+👉 See install steps in the [README](../README.md#installation-for-testing)
 
 ---
 
@@ -63,4 +72,7 @@ While most brokerages rely on mobile apps and web portals, a **custom desktop br
 
 _Embed actual image links as needed from GitHub_
 
-
+```md
+![FinIndia](https://github.com/user-attachments/assets/04615c13-d602-46ca-a7ba-f6035f5c23b7)
+![Zerodha](https://github.com/user-attachments/assets/4b823c28-e5b4-4808-99dc-b57e16062623)
+![Groww](https://github.com/user-attachments/assets/28d7cee0-3d3a-4aa2-839c-a3f0abcf4533)
